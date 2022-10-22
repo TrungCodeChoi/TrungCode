@@ -1,0 +1,124 @@
+/* n */
+.cart-gioHang{
+    max-width: 1270px;
+    color: rgb(80, 66, 66);
+}
+
+
+.containerr{
+    border: 1px solid rgb(235, 229, 241);
+    margin-top: 4px;
+    text-align: center;
+    margin-left: 150px;
+}
+.tongSL{
+    background-color: aliceblue;
+    width: 80px;
+    height: 20px;
+    border-radius: 5px;
+    border: 1px;
+}
+
+.containerr,
+.left ul li{
+    list-style: none;
+    clear: left;
+    float: left;
+    margin-bottom: 20px;
+}
+.ttoan{
+    width: 170px;
+    height: 70px;
+    font-size: 20px;
+    border: 2px;
+    border-radius: 10px;
+    background-color: rgb(37, 122, 206);
+    margin-bottom: 30px;
+}
+.left-check{
+    margin-bottom: 30px;
+    width: 40px;
+    
+}
+.thanhToan1{
+    float: left;
+    font-size: 30px;
+    line-height: 60px;
+    margin-left: 300px;
+    margin-top: 3px;
+}
+.ttoan:hover{
+    background-color: rgb(206, 85, 41);
+}
+.thanhToan{
+    float: right;
+    font-size: 30px;
+}
+.cart-img{
+    width: 180px;
+    float: left;
+    margin-bottom: 20px;   
+}
+.cart-img:hover{
+    transform: scale(1.5);
+    border: 2px solid rgb(66, 43, 62);
+    box-shadow: 2px 2px rgb(233, 174, 10);
+}
+.noidung{
+    font-size: 20px;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+.noidung:hover{
+    transform: scale(1.5);
+    border: none;
+    box-shadow: 0 0 rgb(233, 174, 10);
+}
+.container_pages{
+    margin-left: 60px;
+}
+.more-menu{
+    margin-left: 90px;
+    font-size: 17px;
+    margin-top: 7px;
+    float: left;
+    clear: left;
+ 
+}
+.left ul li{
+    clear: left;
+}
+h3{
+    line-height: 60px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgb(171, 159, 184);
+}
+h3:hover{
+    border-radius: 10px;
+    transform: scale(1.3);
+    background-color: rgb(228, 177, 143);
+}
+.left{
+    float: left;
+    width: 500px;  
+}
+.center1{
+    float: left;
+    width: 150px;
+}
+.center2{
+    float: left;
+    width: 150px;
+}
+.center3{
+    float: left;
+    width: 150px;
+}
+.right{
+    float: left;
+    width: 150px;
+}
+
+
+
